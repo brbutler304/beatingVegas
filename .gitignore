@@ -1,7 +1,6 @@
 #Files/Folders
 /batter_data
 /SP_data
-/oddshark
 df_bp*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
