@@ -1,7 +1,7 @@
 #Files/Folders
-#/batter_data
-#/SP_data
-#/oddshark
+/batter_data
+/SP_data
+/oddshark
 df_bp*.csv
 df_runs*.csv
 
